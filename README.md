@@ -8,7 +8,7 @@ My passion for web space development brought me to my institute. Where I am stud
 
 Currently, I focus on installing and testing user interface elements on responsive websites. I typically use HTML, CSS, JavaScript, React, Bootstrap, and Tailwind for the client. NODE, Mongo DB, and Express for the server, and HTTP for communication between client and server. 
 
-##Specialties: <br>
+### Specialties: <br>
 • Working with people and coordinating cross-team projects. <br>
 • Designing large-scale distributed systems. <br>
 • Knowledge of web standards and best practices. <br>
@@ -16,7 +16,7 @@ Currently, I focus on installing and testing user interface elements on responsi
 • Familiarity with web performance optimization. <br>
 • Strong debugging skills. <br>
 
-##Technical Skills: <br>
+### Technical Skills: <br>
 • Expertise (HTML5, CSS3, React, JavaScript, DOM, Responsive Design, Bootstrap, Tailwind)<br>
 • Comfortable (Firebase, React-router, Express JS, MongoDB, Node JS )<br>
 • Familiar (with TypeScript, Next JS, AJAX, JSON, UI/UX)<br>
