@@ -20,7 +20,7 @@ Technical Skills
 • Expertise (HTML5, CSS3, React, JavaScript, DOM, Responsive Design, Bootstrap, Tailwind)
 • Comfortable (Firebase, React-router, Express JS, MongoDB, Node JS )
 • Familiar (with TypeScript, Next JS, AJAX, JSON, UI/UX)
-• Tools (VsCode, GitHub, Chrome DevTools, Git, Netlify, Vercel, Figma, Photoshop )
+• Tools (VsCode, GitHub, Chrome DevTools, Git, Netlify, Vercel, Figma, Photoshop )<br>
 >> Check my portfolio: https://mydulislam.github.io/MyPortfolio/
 
 - 🔭 I’m currently working on Front End Project 
